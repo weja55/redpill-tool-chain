@@ -352,7 +352,7 @@
       },
       "redpill_load": {
         "source_url": "https://github.com/jumkey/redpill-load.git",
-        "branch": "42218-20211021"
+        "branch": "develop"
       },
       "bulid_env": {
       "jun_mod": 1,
